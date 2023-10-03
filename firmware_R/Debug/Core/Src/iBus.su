@@ -1,0 +1,8 @@
+../Core/Src/iBus.c:10:10:iBus_combineByte	16	static
+../Core/Src/iBus.c:15:10:iBus_checksum	24	static
+../Core/Src/iBus.c:27:6:iBus_parsing	16	static
+../Core/Src/iBus.c:41:8:iBus_rangeTransform	56	static
+../Core/Src/iBus.c:46:6:iBus_normalization	24	static
+../Core/Src/iBus.c:67:6:iBus_cmd_vel	64	static
+../Core/Src/iBus.c:96:9:iBus_readPacket	24	static
+../Core/Src/iBus.c:111:9:iBus_readByte	16	static

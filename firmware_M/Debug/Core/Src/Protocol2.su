@@ -1,0 +1,11 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:1814:26:LL_USART_IsActiveFlag_TXE	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2426:22:LL_USART_TransmitData8	16	static
+../Core/Src/Protocol2.c:10:10:Protocol2_combineByte	16	static
+../Core/Src/Protocol2.c:15:6:Protocol2_divideByte	32	static
+../Core/Src/Protocol2.c:23:6:Protocol2_update_header	16	static
+../Core/Src/Protocol2.c:39:6:Protocol2_torqueOn	16	static
+../Core/Src/Protocol2.c:60:6:Protocol2_writePosition	16	static
+../Core/Src/Protocol2.c:104:6:Protocol2_update_length	24	static
+../Core/Src/Protocol2.c:112:10:Protocol2_update_crc	536	static
+../Core/Src/Protocol2.c:159:6:Protocol2_writeByte	16	static
+../Core/Src/Protocol2.c:185:6:Protocol2_writePacket	24	static
